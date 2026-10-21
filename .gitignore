@@ -1,0 +1,10 @@
+# Air build artifacts
+/tmp/
+
+# Local executables
+*.exe
+
+# Local environment variables
+.env
+.env.*
+!.env.example
